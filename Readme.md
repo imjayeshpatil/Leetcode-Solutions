@@ -1,11 +1,6 @@
-# LeetCode Solutions in Java
+## LeetCode: Two Sum - HTML Code Representation
 
-This repository contains Java-based solutions to popular LeetCode problems.  
-Below is the **full HTML code** for the problem description of [Two Sum](https://leetcode.com/problems/two-sum/), written in HTML for educational/demo purposes.
-
----
-
-## 📄 HTML Representation: Two Sum Problem
+Below is the full HTML code for the LeetCode problem [Two Sum](https://leetcode.com/problems/two-sum/).
 
 ```html
 <!DOCTYPE html>
