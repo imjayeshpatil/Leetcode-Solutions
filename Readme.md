@@ -1,6 +1,6 @@
 ## LeetCode: Two Sum - HTML Code Representation
 
-Below is the full HTML code for the LeetCode problem [Two Sum](https://leetcode.com/problems/two-sum/). 
+LeetCode problem [Two Sum](https://leetcode.com/problems/two-sum/). 
 Easy  
 
 Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to target.
