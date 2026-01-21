@@ -1,4 +1,4 @@
-public class Number_Pattern_Triangle {
+public class printPattern {
    
     public static void printPattern(int n) {
         for (int i = 1; i <= n; i++) {
@@ -16,7 +16,7 @@ public class Number_Pattern_Triangle {
         System.out.print("Enter the size of the pattern: ");
         int n = sc.nextInt(); // size of the pattern
 
-        printPattern1(n);
+        printPattern(n);
         
          
 
